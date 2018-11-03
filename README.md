@@ -205,9 +205,10 @@ medipack extract input.mp4 --video
 
 ### Contact / Social Media
 
-[![Github](https://raw.githubusercontent.com/srbcheema1/medipack/master/extra/github.png)](https://github.com/srbcheema1/)
-[![LinkedIn](https://raw.githubusercontent.com/srbcheema1/medipack/master/extra/linkedin-48x48.png)](https://www.linkedin.com/in/srbcheema1/)
-[![Facebook](https://raw.githubusercontent.com/srbcheema1/medipack/master/extra/fb.png)](https://www.facebook.com/srbcheema/)
+[![Github](https://raw.githubusercontent.com/srbcheema1/CheemaFy/master/myPlugins/extra_things/png_images/social/github.png)](https://github.com/srbcheema1/)
+[![LinkedIn](https://raw.githubusercontent.com/srbcheema1/CheemaFy/master/myPlugins/extra_things/png_images/social/linkedin-48x48.png)](https://www.linkedin.com/in/srbcheema1/)
+[![Facebook](https://raw.githubusercontent.com/srbcheema1/CheemaFy/master/myPlugins/extra_things/png_images/social/fb.png)](https://www.facebook.com/srbcheema/)
+
 
 ### Development by
 
