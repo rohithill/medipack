@@ -24,7 +24,7 @@ It can also be used to `extract` out `audio` or `video` from a media file.
 sudo python3 -m pip install medipack
 ```
 you may use `--user` option to install locally for user only in `~/.local/bin`
-don't forget `~/.local/bin` should be in your `PATH`. Add line `export PATH=$PATH="~/.local/bin"` in your `.bashrc`
+don't forget `~/.local/bin` should be in your `PATH`. Add line `export PATH="$HOME/.local/bin:$PATH"` in your `.bashrc`
 
 ### Usage
 
